@@ -1,0 +1,14 @@
+Package: utilR
+Type: Package
+Title: util R 
+Version: 0.1.1
+Author: Yumeng Wang
+Maintainer: Yumeng Wang <wangyumeng.hust@gmail.com>
+Description: include frequently used R function and plot including coxph, kmplot, 
+    differential, oncoplot, mutation waterfall plot
+License: MIT LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: R(>= 3.1.0)
+Imports: foreach, survival, logging, uuid, jsonlite, maftools, ComplexHeatmap, grid
+RoxygenNote: 6.0.1
