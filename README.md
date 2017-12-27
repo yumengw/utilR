@@ -16,6 +16,6 @@
 install.packages("utilR_0.1.1.tar.gz", repos = NULL, type="source")
 ```
 
-# Dependancy
+# Dependency
 * R (>= 3.1.0)
 
