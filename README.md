@@ -7,6 +7,9 @@
     * t-test
     * Wilcoxon test
     * Kruskal-Wallis test
+  * correlation analysis
+    * spearman
+    * pearson
   * Oncoplot
   * Waterfall plot
   
